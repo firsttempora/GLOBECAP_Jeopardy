@@ -1,0 +1,42 @@
+# Lines beginning with # are comments
+# This line defines the number of categories
+N4
+# The next 4 lines define categories
+C1 Terms and Terminology
+C2 The usual suspects
+C3 Be creative
+C4 4 years? Uh, no.
+#
+# The following lines have the format: category number | dollar amt | answer | question | additional info (optional)
+#
+#
+# The first category:
+1|100|This is the type of degree you earn from completing a typical four year major at a college or university.  It also refers to a single man.|What is a bachelor's degree?
+1|200|This is a degree which can be earned in two years from a college.|What is an associate's degree?
+1|300|This term for a college or university program may sound like it is "beneath" you, but it really isn't.|What is undergraduate?
+1|400|This refers to a program you might enter after finishing college. Completion of such a program results in either a master's degree or a Ph.D.|What is graduate school?|A master's degree normally takes 2 years to complete, a Ph.D. typically takes 5-6 years.  Unlike other fields (such as the arts), a Ph.D. in a scientific field can be started immediately after finishing an undergraduate program. (In other fields, you need to finish a master's first, but Ph.D.'s are only ~3 years.)
+1|500|These two terms, both beginning with "m," describe your primary and secondary field of study at a college.|What are major and minor?|At college, your major is the area you'll get a bachelor's degree in, a minor is like an extra certification added on to your degree.
+#
+#
+# The second category:
+2|100|This person works in a chemistry lab helping to make or analyze new products.|Who is a lab or bench chemist?|A bench chemist can have either a bachelor's or masters degree and makes $55K/yr or more.
+2|200|It's time to give back: if you choose this job, you'll have a chance to pass along knowledge of science to the next generation.|What is a science teacher?|To be a science teacher, you need either a bachelor's degree in science education or a science degree plus teaching certification.  You'll also need to be willing to teach different types of science. $26-55K/yr.
+2|300|Like food? This type of tasty scientist needs a biology or chemistry degree.|What is a food scientist?|Food scientists ensure food is safe an healthy, and work with companies and the government. $58K/yr with bachelor's degree.
+2|400|This kind of scientist works with private individuals and public agencies to "conserve" the environment.|What is a conservation scientist?|A conservation scientist gets to work outside and in national parks more than most other scientists. They can help find ways to allow development without harming the land, or to protect natural areas from being lost. A four year program in forestry (biology and ecology) is needed. $57K/yr.
+2|500|This high flying (and high paying!) job is open to a physics major willing to reach for the moon…|What is an aerospace engineer?|There are a number of paths to being an aerospace engineer, and at $97K/yr with a bachelor's degree, it's well worth the time.
+#
+#
+# The third category:
+3|100|What makes oranges smell like oranges? These scientists work to make sure artifical scents smell right.|Who are odor testers?|Job requirements: good nose, bachelor's in chemistry, and a strong stomach. Salary starts around $35K, but you'll get a weird, but unique job.
+3|200|Want to work where dinosaurs still roam? Then consider applying to be this kind of educator, where you'll meet all ages.|What is a museum educator?|As a museum science educator, you would get to plan and deliver tours and shows to museum visitors.  You will probably need a bachelor's degree for most museums. Average salary: ~$45K.
+3|300|This job is to communicate developments or ideas in science to the public through various news outline, especially websites nowadays.|What is science journalism?|Science journalism requires someone who can explain emerging scientific concepts simply and straightforwardly - so if you have a gift with words and like science, you should keep this in mind.  Salaries vary wildly, but entry level positions are ~$40K.
+3|400|You might consider this career if you like science and have a gift for art.|What is science illustration?|Images and diagrams are an important part of scientific communication, in popular publications, textbooks, and professional papers. Some combination of a major and minor in a science and art field, plus a willingness to market yourself agressive will be useful.  
+3|500|This job sounds more violent than it is - all it involves is finding qualified candidates for job openings.|What is a headhunter?|This job would be great for someone who enjoys meeting new people and talking to them about science - you'll need to build a large network of clients and candidates, and know enough about the scientific field to assess candidates' qualifications. You'd be paid based on how successful you are at hiring people for your clients; a reasonably successful headhunter can make ~$75K/yr.
+#
+#
+# The fourth category:
+4|100|You can't write an Rx, but you can still help people in this job, abbreviated RN|What is a registered nurse?|You can become an RN with an associate's (2 year) or bachelor's (4 year) degree in nursing. You'll need to know some biology and anatomy, and not be squeamish around blood. ~$66K/yr.
+4|200|This person keeps a lab running smoothly and assists other scientists.|Who is a lab technician?|You can be a lab tech with just an associate's degree - especially if you also have some skill in mechanical work, since instruments break and need to be put back together well. $38K+/yr.
+4|300|If four-footed people are more your thing, you might considering being this sort of technician.|What is a veterinary technician?|To be a veterinary technician, you need a veterinary technology degree, which you can get in two years.  Having some biology under your belt before that is helpful, plus some chemistry since you will often explain the use of drugs to pet owners. ~$30K/yr average nationwide.
+4|400|Science + nature? If you like working outdoors, being this sort of technician might be right up your alley.|What is an environmental technician?|A two-year degree in something like applied science is sufficient for this job. Your work would be a lot like a GLOBE experiment, but with cooler toys - go outside, take samples, study and catalogue them. ~$32K/yr.
+4|500|Someone in this job helps to run "technical" tests on the human heart, such as EKGs.|What is a cardiovascular technician?|You can get into this field with just an associate's degree, although you do need at least 2 years after high school. Like nursing, it gives you a chance to help and work with people, which can be both stressful and rewarding. $40K+/yr.
